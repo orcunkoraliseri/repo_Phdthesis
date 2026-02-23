@@ -1,0 +1,17 @@
+dataset_*/
+__pycache__/
+.idea/
+venv/
+.DS_Store
+*.ftr
+*.pkl
+*.keras
+*.pt
+catboost_info/
+AI_DL_trained/
+openai/
+*.log
+*.csv
+*.html
+*.png
+*.json
