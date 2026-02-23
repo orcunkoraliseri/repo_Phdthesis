@@ -1,5 +1,8 @@
 # CENTUS: A Data-Driven Occupancy Modeling Framework
 
+**Journal:** Energy and Buildings
+**DOI:** [https://doi.org/10.1016/j.enbuild.2026.117155](https://doi.org/10.1016/j.enbuild.2026.117155)
+
 ## Overview
 
 CENTUS is a novel, data-driven methodology for generating high-fidelity residential occupancy data. It synthesizes official population statistics from ISTAT with behavioral patterns analyzed using advanced deep learning architectures (LSTM and Transformer). The framework enables comprehensive, year-long classification of household occupancy across both temporal and non-temporal attributes.
